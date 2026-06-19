@@ -5,7 +5,7 @@
 ### Installation
 
 ```bash
-git clone https://github.com/KawshikBss/assesment_task_client.git
+git clone https://github.com/KawshikBss/assessment_task_client.git
 cd assesment_task_client
 npm install
 ```
